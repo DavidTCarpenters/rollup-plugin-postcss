@@ -22,16 +22,16 @@
     "postcss",
     "rollup"
   ],
-  "author": "EGOIST <0x142857@gmail.com>",
+  "author": "David Thompson <dtho@carpentersgroup.co.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/egoist/rollup-plugin-postcss/issues"
+    "url": "https://github.com/DavidTCarpenters/rollup-plugin-postcss/issues"
   },
   "engines": {
     "node": ">=10"
   },
   "types": "./types/index.d.ts",
-  "homepage": "https://github.com/egoist/rollup-plugin-postcss#readme",
+  "homepage": "https://github.com/DavidTCarpenters/rollup-plugin-postcss#readme",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.5",
