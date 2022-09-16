@@ -40,7 +40,7 @@
     "babel-jest": "^25.3.0",
     "bili": "^4.9.0",
     "eslint-config-rem": "^4.0.0",
-    "fs-extra": "^9.0.0",
+    "fs-extra": "^10.1.0",
     "jest": "^25.3.0",
     "less": "^3.11.1",
     "node-sass": "^7.0.0",
