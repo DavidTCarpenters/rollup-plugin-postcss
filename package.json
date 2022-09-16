@@ -46,7 +46,7 @@
     "node-sass": "^7.0.0",
     "rollup": "^2.6.1",
     "stylus": "^0.54.7",
-    "sugarss": "^2.0.0",
+    "sugarss": "^3.0.3",
     "xo": "^0.29.1"
   },
   "dependencies": {
